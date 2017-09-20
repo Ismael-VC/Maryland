@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"battlerName":"Mary","characterIndex":0,"characterName":"Mary","classId":3,"equips":[3,1,2,3,4],"faceIndex":0,"faceName":"Mary","traits":[{"code":11,"dataId":8,"value":1},{"code":12,"dataId":2,"value":0.75},{"code":13,"dataId":2,"value":0.5},{"code":14,"dataId":6,"value":1},{"code":21,"dataId":0,"value":1},{"code":22,"dataId":1,"value":0.33},{"code":43,"dataId":8,"value":1},{"code":31,"dataId":8,"value":1},{"code":32,"dataId":6,"value":0.75},{"code":51,"dataId":6,"value":1},{"code":62,"dataId":1,"value":1},{"code":64,"dataId":4,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Mary","nickname":"Meme","note":"","profile":"Mary la hechizera."}
+]
